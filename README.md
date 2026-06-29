@@ -65,14 +65,14 @@ Compares the number of patients based on treatment cost levels.
 5. Tools and Technologies
 
   DAX
-  Data Modelling
-  Power Query
-  Power BI
-  Data Cleaning
+  - Data Modelling
+  - Power Query
+  - Power BI
+  - Data Cleaning
 
 # Power BI Dashboard
 
-  You can download the Power BI project file here: hospital powerbi dashboard.pbix
+ You can download the Power BI project file here: 
 
 # Project Dashboard View
 
