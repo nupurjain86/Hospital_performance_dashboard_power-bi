@@ -23,11 +23,11 @@ Welcome to my Hospital power bi project. Interactive Power BI dashboard analyzin
 2. Filters Applied
 
   Filtered the data using
-Gender 
-Outcome
-Cost Category
-Age Group
-Condition
+- Gender 
+- Outcome
+- Cost Category
+- Age Group
+- Condition
  
 3. Visualizations used
 
