@@ -72,7 +72,7 @@ Compares the number of patients based on treatment cost levels.
 
 # Power BI Dashboard
 
- You can download the Power BI project file here: [Download PBIX File](PASTE-YOUR-COPIED-RAW-LINK-HERE)
+ You can download the Power BI project file here: https://github.com/nupurjain86/Hospital_performance_dashboard_power-bi/blob/main/hospital%20powerbi%20dashboard.pbix
 
 # Project Dashboard View
 
