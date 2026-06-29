@@ -1,1 +1,79 @@
-# Hospital_power-bi_project
+# Hospital_performance_analyses (power bi project)
+
+Welcome to my Hospital power bi project. Interactive Power BI dashboard analyzing Hospital performance, patient outcomes and patient conditions using Power Query, Data Cleaning, DAX calculations, dynamic visualizations for decision making.
+
+# Project Overview
+
+# Objectives
+- Helps in analyze Length of stay by condition.
+- Evaluate Gender analysis.
+- Identify patient counts.
+- Analyze Total Cost, Average Cost using KPI cards.
+
+# Power BI Implementation
+
+1. Measures (DAX calculations)
+ 
+- Average  Cost
+- Average Length of Stay
+- Average Satisfaction
+- Total Cost
+- Total Patients
+
+2. Filters Applied
+
+  Filtered the data using
+Gender 
+Outcome
+Cost Category
+Age Group
+Condition
+ 
+3. Visualizations used
+
+📊 Patient Outcome Analysis (Donut Chart)
+
+Shows the distribution of patient outcomes after treatment
+
+🍩 Avg Length of Stay by Condition (Bar Chart)
+
+ Compares the average hospital stay duration for different medical conditions.
+
+📈 Gender Analysis (Pie Chart)
+
+ Displays patient distribution based on gender.
+
+📦Patient Count by Condition (Horizontal Bar Chart)
+
+ Shows the number of patients across different medical conditions. 
+
+⭐ Patient Count by Cost Category (Column Chart)
+
+Compares the number of patients based on treatment cost levels.
+
+📈 Satisfaction vs Cost (Scatter Chart)
+
+ Analyzes the relationship between treatment cost and patient satisfaction.
+
+4. KPI Cards
+- Total Patients
+- Total Cost
+- Average Cost
+- Average Length of Stay
+- Average Satisfaction
+
+5. Tools and Technologies
+
+  DAX
+  Data Modelling
+  Power Query
+  Power BI
+  Data Cleaning
+
+# Power BI Dashboard
+
+  You can download the Power BI project file here:
+
+# Project Dashboard View
+
+below is the screenshot of Myntra Brand Dashboard:
